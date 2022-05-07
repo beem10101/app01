@@ -22,7 +22,6 @@ def click():
     worksheet.write(x,0,i)
     worksheet.write(x,1,j)
     worksheet.write(x,2,k)
-    print(i,j,k)
     x+=1
     print(i,j,k)
 # name
